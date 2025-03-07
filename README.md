@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center"> Hi there, I'm Fahd 👋</h1>
 
-<!--
-**isha9103/isha9103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning *Next* and *Rust*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me *fahd.fady212@gmail.com*, or <a href="https://fahddev.vercel.app/"> my website </a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/fahdashwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahdashwr" height="30" width="40" /></a>
+<a href="https://fb.com/FahdFady212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FahdFady212" height="30" width="40" /></a>
+</p>
+
+<image align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahdfady&theme=shades-of-purple&hide_border=true" />
